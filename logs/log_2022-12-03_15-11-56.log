@@ -1,0 +1,61 @@
+
+-----
+Test: tests/test_main.py::test_open_main_page (call)
+Start time: 2022-12-03 15:11:56.109706
+Start name method: open_main_page
+
+End time: 2022-12-03 15:12:03.506925
+End name method: open_main_page
+URL: https://www.dns-shop.ru/
+
+-----
+
+-----
+Test: tests/test_main.py::test_select_city (call)
+Start time: 2022-12-03 15:12:03.516249
+Start name method: select_city
+
+
+-----
+Test: tests/test_main.py::test_input_field (call)
+Start time: 2022-12-03 15:12:10.392093
+Start name method: input_text
+
+End time: 2022-12-03 15:12:33.004805
+End name method: input_text
+URL: https://www.dns-shop.ru/search/?q=Iphone+13+pro&category=17a8a01d16404e77
+
+-----
+
+-----
+Test: tests/test_main.py::test_click_payment (call)
+Start time: 2022-12-03 15:12:33.023569
+Start name method: enter_payment
+
+End time: 2022-12-03 15:12:42.422480
+End name method: enter_payment
+URL: https://www.dns-shop.ru/im_payment/
+
+-----
+
+-----
+Test: tests/test_main.py::test_buy_product (call)
+Start time: 2022-12-03 15:12:42.430653
+Start name method: buy_product
+
+
+-----
+Test: tests/test_main.py::test_buy_product (call)
+Start time: 2022-12-03 15:12:42.431210
+Start name method: input_text
+
+End time: 2022-12-03 15:13:04.111922
+End name method: input_text
+URL: https://www.dns-shop.ru/search/?q=Iphone+13+pro&category=17a8a01d16404e77
+
+-----
+End time: 2022-12-03 15:13:07.417309
+End name method: buy_product
+URL: https://www.dns-shop.ru/
+
+-----

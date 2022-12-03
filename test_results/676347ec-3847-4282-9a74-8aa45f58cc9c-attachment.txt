@@ -1,0 +1,4 @@
+https://www.dns-shop.ru/ assert
+Enter text in input field: OK
+Action return: OK
+https://www.dns-shop.ru/search/?q=Iphone+13+pro&category=17a8a01d16404e77 assert

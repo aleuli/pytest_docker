@@ -1,0 +1,3 @@
+https://www.dns-shop.ru/ assert
+ Move to elem: OK
+https://www.dns-shop.ru/im_payment/ assert
